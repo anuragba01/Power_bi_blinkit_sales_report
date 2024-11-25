@@ -8,8 +8,8 @@ Click the link below to download the Power BI file (`.pbix`):
 
 You can open this file in **Power BI Desktop** to explore the report.
 
-
-
+- Dashboard Screenshot
+![Alt Text](https://github.com/anuragba01/Power_bi_blinkit_sales_report/blob/main/Screenshot%202024-11-25%20172544.png?raw=true)
 
 
 ## Tools Used
