@@ -40,6 +40,7 @@ Click the link below to download the Power BI file (`.pbix`):
 **Data Transformation:**
 - Organized data by attributes such as City Tier, Outlet Size, Item Types, and Year of Establishment.
 - Calculated metrics like Total Sales, Average Sales, Number of Items Sold, and Average Ratings.
+  
 **Dashboard Creation:**
 - Built interactive visualizations using Microsoft Power BI to analyze sales performance:
 - KPIs: Displayed key metrics like sales totals and average ratings.
@@ -48,11 +49,14 @@ Click the link below to download the Power BI file (`.pbix`):
 - Area Graph: Showed sales trends by year of outlet establishment.
 - Funnel Chart: Illustrated total sales by outlet location type.
 - Table: Summarized KPIs by market types.
+
 **Insights and Recommendations:**
 - Identified trends in sales performance based on city tiers, outlet size, and product types.
 - Generated actionable recommendations for improving sales and operational efficiency.
+  
 **Documentation:**
-- Documented the project workflow, tools used, and key insights in the README for users.
+- Documented the project workflow, tools used, and key insights in the README for users.\
+  
 ## Additional Files 
 
 **Raw Data:** You Can Download Raw Data here(`.xlsx`)
